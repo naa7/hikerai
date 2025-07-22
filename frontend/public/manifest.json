@@ -1,0 +1,20 @@
+{
+  "short_name": "hikerai",
+  "name": "HikerAI - AI Powered Hiking Trail Advisor",
+  "icons": [
+    {
+      "src": "hikerai.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "hikerai.png",
+      "type": "image/png",
+      "sizes": "96x113"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
